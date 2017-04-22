@@ -1,3 +1,12 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Quicksand';
+}
+p, a, li {
+  font-family: 'Quicksand';
+}
+.navbar-default {
+  background-color:white;
+}
 /*!
  * Start Bootstrap - SB Admin 2 v3.3.7+1 (http://startbootstrap.com/template-overviews/sb-admin-2)
  * Copyright 2013-2016 Start Bootstrap
